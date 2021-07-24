@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Nunito';
+    src: url(../Fonts/Nunito/NunitoSans-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Nunito';
+    src: url(../Fonts/Nunito/NunitoSans-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url(../Fonts/Roboto/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url(../Fonts/Roboto/Roboto-Regular.ttf);
+    font-weight: 400;
+}
